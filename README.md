@@ -4,4 +4,4 @@ Cette application permet de simuler l'approbation d'une demande de crédit.
 
 ## Aperçu de l'interface
 
-![overview](Captured’écran.png)
+![Interface du site](Capture%20d%27écran.png)
